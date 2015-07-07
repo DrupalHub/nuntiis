@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7e00f72-a21e-4b49-bd2f-9ab5884ec5bd" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/fonts/BYekan.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/avatars/Javi-Jimenez.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/avatars/John-Smith.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/avatars/Lee-Munroe.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/avatars/Matt-Cheuvront.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/avatars/Nicolai-Larson.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/avatars/Osvaldus-Valutis.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/avatars/Sergey-Azovskiy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/avatars/Stephanie-Walter.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/fonts/WeatherIcons-Regular.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/fonts/YekanWeb-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/fonts/YekanWeb-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/avatars/adam-jansen.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/sound/alert.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/angle-down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/app-45616.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/app.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/attach-blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/attach-green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/attach-red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/attach-yellow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/avatars/bing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/docs/js/fancybox/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/docs/images/body.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/docs/images/border_bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/docs/images/collapse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/swf/copy_csv_xls.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/swf/copy_csv_xls_pdf.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/avatars/divyia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/docs/js/fancybox/fancybox_loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/docs/js/fancybox/fancybox_overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/docs/js/fancybox/fancybox_sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/docs/images/header.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/jquery.minicolors.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/docs/images/layout.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/docs/images/less.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/logo-inverted.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/logo-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/docs/images/logo-solo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/logo-solo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/docs/images/main-container.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/docs/images/navbar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/docs/images/page-content.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/skins.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/sort_asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/sort_asc_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/sort_both.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/sort_desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/sort_desc_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/temp1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/docs/images/themecolors.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/img/tree-icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/fonts/typicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/fonts/typicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/fonts/typicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/fonts/weathericons-regular-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/fonts/weathericons-regular-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/fonts/weathericons-regular-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/.csscomb.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/.csslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/400-500.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/400-500.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/4095-rtl.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/4095-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/4095-rtl.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/4095.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/4095.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/4095.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/4095.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/Blue.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/Blue.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/chartjs/Chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/chartjs/Chart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/other-less/LessHat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/datatable/ZeroClipboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/accordions.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/accordions.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/alerts-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/alerts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/alerts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/animate.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/animations.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/animations.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/animations.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/azure.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/azure.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/azure.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/azure.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/background-variant.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/badges-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/badges.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-rtl.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-rtl.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/beyond.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/beyond.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/beyond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/black.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/black.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/black.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/black.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/blank.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/blue.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/body.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/body.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/bootbox/bootbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/bootbox/bootbox.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/bootbox/bootbox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/datetime/bootstrap-datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/bootstrap-rtl.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/bootstrap-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/bootstrap-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/bootstrap-rtl.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/tagsinput/bootstrap-tagsinput.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/tagsinput/bootstrap-tagsinput.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/tagsinput/bootstrap-tagsinput.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/datetime/bootstrap-timepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/datetime/bootstrap-timepicker.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/datetime/bootstrap-timepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/editors/wysiwyg/bootstrap-wysiwyg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/validation/bootstrapValidator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/validation/bootstrapValidator.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/validation/bootstrapValidator.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/border-radius.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/breadcrumbs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/breadcrumbs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/breadcrumbs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/button-groups-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/button-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/buttons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/calendar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/carousel-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/center-block.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/chartjs/chartjs-init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/chartjs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/charts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/charts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/chat.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/chat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/chat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/chat.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/checkbox-radiobox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/checkbox-radiobox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/clearfix.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/close-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/close.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/code.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/colorpicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/colorpicker.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/colors.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/colors.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/comment.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/comment.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/component-animations.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/darkblue.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/darkblue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/darkblue.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/darkblue.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/darkred.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/darkred.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/darkred.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/darkred.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/dashboard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/dashboard.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/dataTables.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/datatable/dataTables.bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/datatable/dataTables.bootstrap.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/datatable/dataTables.bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/datatable/dataTables.tableTools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/datatable/dataTables.tableTools.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/datatable/dataTables.tableTools.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/databoxes.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/databoxes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/databoxes.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/datatable/datatables-init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/datepicker.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/daterangepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/datetime/daterangepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/daterangepicker.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/deepblue.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/deepblue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/deepblue.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/deepblue.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/demo.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/demo.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/demo.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/docs/css/documentation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/dropdowns-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/dropdowns.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/dropdowns.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/dropdowns.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/easypiechart/easypiechart-init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/easypiecharts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/editors.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/editors.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/elements.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/error-404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/error-500.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/flot/flot-init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/flot.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/font-awesome.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/fonts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/fonts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/fonts.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/form-editors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/form-inputs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/form-layouts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/form-pickers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/form-validation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/form-wizard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/forms-inputs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/forms-inputs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/forms-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/fuelux/spinbox/fuelux.spinbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/fuelux/spinbox/fuelux.spinbox.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/fuelux/spinbox/fuelux.spinbox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/fullcalendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/fullcalendar/fullcalendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/fullcalendar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/fullcalendar/fullcalendar.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/fullcalendar/fullcalendar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/glyph-icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/glyphicons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/mixins/gradients-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/gradients.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/gray.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/gray.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/gray.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/gray.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/green.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/green.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/green.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/mixins/grid-framework-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/grid-framework.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/grid-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/mixins/grid-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/grid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/helpers.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/helpers.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/hide-text.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/image.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/inbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/index-rtl-ar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/index-rtl-fa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/input-groups-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/input-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/invoice.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/invoice.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/invoice.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/slider/jQRangeSlider/jQAllRangeSliders-withRuler-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/docs/js/jquery-ui-1.9.0.custom/js/jquery-1.8.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/jquery-ui-1.10.4.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/jquery-ui-1.10.4.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/docs/js/jquery-ui-1.9.0.custom/css/no-theme/jquery-ui-1.9.0.custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/docs/js/jquery-ui-1.9.0.custom/js/jquery-ui-1.9.0.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/textarea/jquery.autosize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/textarea/jquery.autosize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/datatable/jquery.dataTables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/datatable/jquery.dataTables.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/datatable/jquery.dataTables.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/easypiechart/jquery.easypiechart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/easypiechart/jquery.easypiechart.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/easypiechart/jquery.easypiechart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/docs/js/fancybox/jquery.fancybox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/docs/js/fancybox/jquery.fancybox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/docs/js/fancybox/jquery.fancybox.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/flot/jquery.flot.axislabels.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/flot/jquery.flot.categories.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/flot/jquery.flot.categories.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/flot/jquery.flot.crosshair.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/flot/jquery.flot.crosshair.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/flot/jquery.flot.fillbetween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/flot/jquery.flot.fillbetween.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/flot/jquery.flot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/flot/jquery.flot.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/flot/jquery.flot.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/flot/jquery.flot.orderBars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/flot/jquery.flot.pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/flot/jquery.flot.pie.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/flot/jquery.flot.resize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/flot/jquery.flot.resize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/flot/jquery.flot.selection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/flot/jquery.flot.selection.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/flot/jquery.flot.stack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/flot/jquery.flot.stack.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/flot/jquery.flot.time.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/flot/jquery.flot.time.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/flot/jquery.flot.tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/flot/jquery.flot.tooltip.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/flot/jquery.flot.tooltip.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/editors/wysiwyg/jquery.hotkeys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/knob/jquery.knob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/colorpicker/jquery.minicolors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/colorpicker/jquery.minicolors.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/slider/jQRangeSlider/jquery.mousewheel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/nestable/jquery.nestable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/slider/jquery.nouislider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/slimscroll/jquery.slimscroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/slimscroll/jquery.slimscroll.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/slimscroll/jquery.slimscroll.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/sparkline/jquery.sparkline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/jumbotron.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/labels-badges.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/labels-badges.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/other-less/lesshat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/other-less/lesshat.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/list-group-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/loading.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/loading.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/loading.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/loading.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/lock.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/lockscreen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/lockscreen.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/login.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/mail.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/mail.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/main-container.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/main-container.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/media-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/media.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/merged-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/message-compose.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/message-view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/mixins-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/mixins-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/mixins-rtl.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/modals-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/modals.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/modals.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/modals.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/modals.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/datetime/moment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/datetime/moment.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/morris/morris-init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/morris.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/morris/morris.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/mvc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/nav-divider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/nav-vertical-align.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/navbar-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/navbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/navs-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/navs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/nestable-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/nestable-lists.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/nestable-lists.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/normalize-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/normalize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/notifications.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/notifications.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/opacity.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/orange.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/orange.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/orange.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/orders.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/orders.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/page-content.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/page-content.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/page-content.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/page-content.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/page-header-body.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/page-header-body.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/pager-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/pager.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/pagination-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/mixins/pagination-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/pagination.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/panels-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/pink.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/pink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/pink.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/pink.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/popovers-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/popovers.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/popovers.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/popovers.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/editors/wysiwyg/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/pricing.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/pricing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/pricing.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/print.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/profile.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/profile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/profile.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/progress-bar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/progress-bars-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/progress-bars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/progressbars.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/progressbars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/purple.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/purple.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/purple.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/morris/raphael-2.0.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/register.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/register.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/reset-filter.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/resize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/responsive-embed-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/responsive-embed.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/responsive-utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/responsive-visibility.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/scaffolding.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/search-help-bar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/search-help-bar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/select2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/select2/select2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/select2.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/select2/select2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/sidebar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/sidebar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/size.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/skins-mixins.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/skins-mixins.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/skins-mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/skins-mixins.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/skins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/skins.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/sliders.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/sliders.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/spaces.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/spaces.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/spaces.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/charts/sparkline/sparkline-init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/sparkline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/spinners.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/spinners.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/editors/summernote/summernote.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/editors/summernote/summernote.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/switches.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/switches.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/tab-focus.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/table-row.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/tables-data.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/tables-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/tables-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/tables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/tables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/tables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/tabs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/tabs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/tagsinput.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/tagsinput.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/tasks.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/tasks.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/teal.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/teal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/teal.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/skins/teal.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/text-emphasis.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/text-overflow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/thumbnails.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/tickets.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/tickets.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/timeline.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/timeline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/timeline.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/timepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/timepicker.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/toastr/toastr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/toastr/toastr.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/toastr/toastr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/tooltip.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/tooltips.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/tooltips.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/fuelux/treeview/tree-custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/fuelux/treeview/tree-custom.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/fuelux/treeview/tree-custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/fuelux/treeview/treeview-init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/treeview.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/treeview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/treeview.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/type-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/type.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/typicon.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/typicons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/typicons.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/fonts/typicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/typography.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/typography.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/typography.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/utilities-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/validator.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/validator.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-rtl-less/variables-rtl.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/variables.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/variables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/variables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/mixins/vendor-prefixes.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/versions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/weather-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/weather-icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/weather-icons.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/fonts/weathericons-regular-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/wells.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/wells.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/bootstrap-less/wells.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/widget.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/widget.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/widgets.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/fuelux/wizard/wizard-custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/fuelux/wizard/wizard-custom.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/js/fuelux/wizard/wizard-custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/wizards.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/html/assets/css/beyond-less/wizards.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/main.html" afterPath="$PROJECT_DIR$/app/views/main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/controllers/main.js" afterPath="$PROJECT_DIR$/app/scripts/controllers/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/styles/main.scss" afterPath="$PROJECT_DIR$/app/styles/main.scss" />
+    </list>
+    <ignored path="nuntiis.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="nuntiis" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.4482758" vertical-offset="0" max-vertical-offset="300">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.62069" vertical-offset="479" max-vertical-offset="1260">
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/styles/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.41335455" vertical-offset="0" max-vertical-offset="629">
+              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/views/main.html" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/main.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/styles/main.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGruntFileManager">
+    <gruntfiles>
+      <GruntfileState>
+        <alias-tasks>
+          <alias-task value="build" />
+          <alias-task value="default" />
+          <alias-task value="test" />
+        </alias-tasks>
+        <multi-tasks>
+          <GruntMultiTaskState>
+            <name>serve</name>
+          </GruntMultiTaskState>
+          <GruntMultiTaskState>
+            <name>server</name>
+          </GruntMultiTaskState>
+        </multi-tasks>
+        <gruntfile-path>$PROJECT_DIR$/Gruntfile.js</gruntfile-path>
+      </GruntfileState>
+    </gruntfiles>
+    <initial>false</initial>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="742" />
+    <option name="y" value="49" />
+    <option name="width" value="1589" />
+    <option name="height" value="1153" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nuntiis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nuntiis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nuntiis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nuntiis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nuntiis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nuntiis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nuntiis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nuntiis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nuntiis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nuntiis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nuntiis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fancybox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="editorconfig.notification" value="Applied .editorconfig settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/design" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7e00f72-a21e-4b49-bd2f-9ab5884ec5bd" name="Default" comment="" />
+      <created>1436290820035</created>
+      <option name="number" value="Default" />
+      <updated>1436290820035</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="742" y="49" width="1589" height="1153" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987747" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32987747" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.4482758" vertical-offset="0" max-vertical-offset="300">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.62069" vertical-offset="479" max-vertical-offset="1260">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41335455" vertical-offset="0" max-vertical-offset="629">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

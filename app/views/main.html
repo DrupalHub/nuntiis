@@ -1,3 +1,9 @@
 <p ng-controller="FrontPageCtrl">
-{{foo}}
+  <div ng-repeat="message in messages">
+    <div class="col-md-1"><img ng-src="{{message.picture}}" class="img-responsive" /></div>
+    <div class="col-md-11">
+      <p class="name">{{message.name}}, {{message.date}}</p>
+      <p class="text">{{message.text}}</p>
+    </div>
+  </div>
 </p>
