@@ -1,0 +1,23 @@
+.app-wrapper {
+  border: #00B2FF solid 1px;
+  margin-top: 20%;
+  position: relative;
+
+  .navigator {
+    position: absolute;
+    right: -12px;
+    top: -31px;
+    display: inline-block;
+
+
+    li {
+      border: solid 1px #000000;
+      border-bottom: none;
+      padding-top: 5px;
+      padding-right: 15px;
+      padding-left: 15px;
+      padding-bottom: 5px;
+      margin-right: 10px;
+    }
+  }
+}
