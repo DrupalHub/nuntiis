@@ -8,7 +8,7 @@
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
     <!-- build:css(.) styles/vendor.css -->
     <!-- bower:css -->
-    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css" />
+    <link rel='stylesheet' href='bower_components/bootstrap/dist/css/bootstrap.css' />
     <!-- endbower -->
     <!-- endbuild -->
     <!-- build:css(.tmp) styles/main.css -->
@@ -36,7 +36,6 @@
     <script src="scripts/app.js"></script>
     <script src="scripts/Routing.js"></script>
     <script src="scripts/controllers/main.js"></script>
-
     <!-- endbuild -->
 
   </head>
@@ -285,14 +284,19 @@
       <!-- /Page Sidebar -->
       <!-- Page Content -->
       <div class="page-content">
-        <div ng-view=""></div>
+        <div ng-view="" class="clearfix"></div>
+
+        <div class="text-wrapper col-md-10 col-sm-9 col-xs-12">
+          <div class="form-group user-text">
+            <label for="xlginput">Write what on your mind</label>
+            <textarea type="text" class="form-control input-xl" id="xlginput" placeholder="Extra Large Input"></textarea>
+          </div>
+        </div>
         <!-- /Page Body -->
       </div>
 
     </div>
   </div>
   <script src="scripts/beyond.js"></script>
-
-
   </body>
 </html>
