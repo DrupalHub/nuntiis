@@ -9,6 +9,7 @@
     <!-- build:css(.) styles/vendor.css -->
     <!-- bower:css -->
     <link rel='stylesheet' href='bower_components/bootstrap/dist/css/bootstrap.css' />
+    <link rel='stylesheet' href='bower_components/typicons/src/font/typicons.min.css' />
     <!-- endbower -->
     <!-- endbuild -->
     <!-- build:css(.tmp) styles/main.css -->
@@ -255,14 +256,6 @@
 
       <!-- Page Sidebar -->
       <div class="page-sidebar" id="sidebar">
-        <!-- Page Sidebar Header-->
-        <div class="sidebar-header-wrapper">
-          <input type="text" class="searchinput" />
-          <i class="searchicon fa fa-search"></i>
-          <div class="searchhelper">Search Reports, Charts, Emails or Notifications</div>
-        </div>
-        <!-- /Page Sidebar Header -->
-        <!-- Sidebar Menu -->
         <ul class="nav sidebar-menu">
           <!--Dashboard-->
           <li class="active">
@@ -271,11 +264,34 @@
               <span class="menu-text"> Dashboard </span>
             </a>
           </li>
-          <!--Databoxes-->
           <li>
-            <a href="databoxes.html">
-              <i class="menu-icon glyphicon glyphicon-tasks"></i>
-              <span class="menu-text"> Data Boxes </span>
+            <a href="#">
+              <i class="menu-icon fa fa-envelope-o"></i>
+              <span class="menu-text"> Messages </span>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <i class="menu-icon typcn typcn-messages"></i>
+              <span class="menu-text"> Rooms </span>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <i class="menu-icon typcn typcn-message"></i>
+              <span class="menu-text"> OG </span>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <i class="menu-icon typcn typcn-message"></i>
+              <span class="menu-text"> Questions </span>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <i class="menu-icon typcn typcn-message"></i>
+              <span class="menu-text"> HTML, CSS and JS </span>
             </a>
           </li>
         </ul>
@@ -286,10 +302,15 @@
       <div class="page-content">
         <div ng-view="" class="clearfix"></div>
 
-        <div class="text-wrapper col-md-10 col-sm-9 col-xs-12">
-          <div class="form-group user-text">
-            <label for="xlginput">Write what on your mind</label>
-            <textarea type="text" class="form-control input-xl" id="xlginput" placeholder="Extra Large Input"></textarea>
+        <div class="text-wrapper col-md-12 col-sm-12 col-xs-12">
+          <div class="col-md-11 col-sm-11 col-xs-11">
+            <div class="form-group user-text">
+              <textarea type="text" class="form-control input-xl" id="xlginput" placeholder="Start chatting!"></textarea>
+            </div>
+          </div>
+
+          <div class="col-md-1 col-sm-1 col-xs-1">
+            <button class="btn btn-primary">send</button>
           </div>
         </div>
         <!-- /Page Body -->

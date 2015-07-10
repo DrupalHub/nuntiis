@@ -1,5 +1,5 @@
 <p ng-controller="FrontPageCtrl">
-  <div ng-repeat="message in messages">
+  <div ng-repeat="message in messages" class="clearfix">
     <div class="col-md-1 col-xs-2"><img ng-src="{{message.picture}}" class="img-responsive" /></div>
     <div class="col-md-11">
       <p class="name">{{message.name}}, {{message.date}}</p>
